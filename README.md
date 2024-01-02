@@ -17,3 +17,5 @@ Wszystkie rozwiązania znajdziesz w odpowiednich plikach. Każde rozwiązanie za
 Jeśli masz pytania lub sugestie dotyczące kodu, śmiało skontaktuj się ze mną przez [GitHub Issues](https://github.com/djcebul/CodeWars/issues).
 
 Happy coding! 🚀
+
+![Moja motywacja](https://i.ibb.co/mFT93sR/wordcloud.png)

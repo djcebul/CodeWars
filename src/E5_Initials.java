@@ -1,6 +1,6 @@
 public class E5_Initials {
     public static void main(String[] args) {
-        System.out.println( abbrevName("Daniel Cebula"));
+        System.out.println(abbrevName("Daniel Cebula"));
     }
     public static String abbrevName(String name) {
         String a, b;

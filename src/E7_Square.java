@@ -17,11 +17,14 @@ The tests will always use some integral number, so don't worry about that in dyn
 public class E7_Square {
     public static void main(String[] args) {
         System.out.println(isSquare(27));
+        String n = "fafa";
+        n.toUpperCase();
     }
 
     public static boolean isSquare(int n) {
         if (n == 0) return true;
         return (n % Math.sqrt(n)) == 0;
     }
+
 
 }

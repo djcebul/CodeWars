@@ -46,4 +46,4 @@ Dlatego, aby znaleźć liczbę zer na końcu silni, wystarczy policzyć, ile raz
         = 3628800
 
 Jednakże, możemy zauważyć, że występuje jedno 5 (wynikające z liczby 5) oraz jedno 10 (wynikające z iloczynu 2 i 5).
-Zatem, liczba zer na końcu wynosi 1.*/
+*/
